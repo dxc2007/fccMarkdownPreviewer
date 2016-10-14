@@ -1,0 +1,23 @@
+#inputText {
+  font-size: 15px;
+  height: 70vh;
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid grey;
+}
+
+#inputBox {
+  float: left;
+  width: 30%;
+  height: 70vh; 
+  padding: 10px;
+}
+
+#outputText {
+  font-family: Avenir, Helvetic, sans-serif;
+  font-size: 15px;
+  height: 70vh;
+  width: 45%
+  overflow: auto;
+  margin: 20px;
+}
